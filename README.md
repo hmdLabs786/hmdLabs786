@@ -1,299 +1,351 @@
 <div align="center">
 
-# ⚡ HABBAN MADANI
-
-### `FULL STACK DEVELOPER` · `APP DEVELOPER` · `AI BUILDER`
-
-**I build software that doesn't just work — it thinks, connects, and ships.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1220,100:00BFFF&height=220&section=header&text=HABBAN%20MADANI&fontSize=52&fontColor=EAF6FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%2F%2F%20APP%20DEVELOPER%20%2F%2F%20AI%20BUILDER&descAlignY=62&descSize=16&descColor=7DD3FC" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=%3E+INITIALIZING+HABBAN.DEV...;%3E+FULL+STACK+SYSTEM+ONLINE;%3E+AI+CORE+CONNECTED;%3E+BUILDING+THE+FUTURE%2C+ONE+PRODUCT+AT+A+TIME" />
+
+<br/><br/>
+
 <a href="https://habban-dev.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_WORK-0A0A0A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05070D" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/habbanmadani">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" />
 </a>
+&nbsp;
 <a href="mailto:habban.madani786@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_BUILD-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Engineering+full-stack+systems+%F0%9F%94%A7;Creating+cross-platform+apps+%F0%9F%93%B1;Turning+ideas+into+real+software+%F0%9F%9A%80" />
+<img src="https://komarev.com/ghpvc/?username=hmdLabs786&style=for-the-badge&color=0EA5E9&label=PROFILE+SIGNALS" />
 
 </div>
 
 ---
 
-## 🧬 WHO AM I?
+<div align="center">
 
 ```text
-Habban Madani
-├── Full Stack Web Developer
-├── App Developer
-├── Generative AI Integrator
-├── Backend Engineer
-└── Product Builder
+╔══════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM IDENTITY                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   HABban.MADANI                                                      ║
+║   ├── ROLE        :: FULL STACK / APP DEVELOPER                     ║
+║   ├── SPECIALTY   :: GENERATIVE AI + PRODUCT ENGINEERING            ║
+║   ├── LOCATION    :: KARACHI, PAKISTAN                              ║
+║   ├── STATUS      :: BUILDING                                       ║
+║   └── DIRECTIVE   :: IDEA → SYSTEM → PRODUCT → SHIP                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a developer from **Karachi, Pakistan** who enjoys taking an idea from
+</div>
 
-**`"What if we built this?"` → `architecture` → `code` → `AI` → `deployed product`**
+# `01 // WHO AM I`
 
-I work across the stack — from designing databases and REST APIs to building polished web interfaces and cross-platform mobile applications.
+```bash
+$ whoami
 
-My particular obsession is **AI-powered software**: taking traditional applications and giving them intelligent capabilities through LLMs, automation, and carefully designed product experiences.
+> Habban Madani
 
-My core toolkit includes **React, Flutter, Laravel, Node.js, MySQL, MongoDB, Firebase, and Generative AI APIs**.
+$ role
 
----
+> Full Stack Web & App Developer
+> Generative AI Integrator
+> Product Builder
 
-## ⚡ WHAT I BUILD
+$ mission
 
-<table>
-<tr>
-<td width="50%">
+> Build intelligent software that feels as good as it functions.
 
-### 🤖 AI SYSTEMS
+$ current_mode
 
-LLM-powered applications, AI assistants, intelligent workflows, and API integrations.
+> BUILDING // EXPERIMENTING // SHIPPING
+```
 
-**Gemini · OpenAI · Claude · LLM Architecture**
+I'm a **Full Stack Web & App Developer** focused on building modern web applications, cross-platform mobile experiences, backend systems, and AI-powered products.
 
-</td>
-<td width="50%">
+I enjoy working across the entire system — from **UI and APIs to databases, cloud infrastructure and AI integration**.
 
-### 🌐 FULL-STACK PRODUCTS
+My favorite part?
 
-Modern web applications with structured backends, databases, authentication, APIs and polished interfaces.
-
-**React · Laravel · Node.js · MySQL**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📱 MOBILE APPS
-
-Cross-platform applications designed to feel native, responsive and production-ready.
-
-**Flutter · Dart · Firebase · Android**
-
-</td>
-<td width="50%">
-
-### ⚙️ AUTOMATION
-
-Connecting APIs, AI models and services to eliminate repetitive work and create smarter workflows.
-
-**APIs · AI · Automation · Cloud**
-
-</td>
-</tr>
-</table>
+Taking something that starts as an idea and turning it into something people can actually use.
 
 ---
 
-# 🚀 FEATURED BUILD
+# `02 // CORE SYSTEM`
 
 <div align="center">
 
-## 🎓 ILMAI
+| `FRONTEND` | `BACKEND` | `AI / INTELLIGENCE` |
+| :--------: | :-------: | :-----------------: |
+|    React   |  Laravel  |        Gemini       |
+|   Flutter  |  Node.js  |        OpenAI       |
+|  Tailwind  |    PHP    |        Claude       |
+| JavaScript | REST APIs |   LLM Integration   |
+|    Dart    |   MySQL   |    AI Automation    |
+
+|  `DATA`  | `INFRASTRUCTURE` | `TOOLS` |
+| :------: | :--------------: | :-----: |
+|   MySQL  |      Vercel      |   Git   |
+|  MongoDB |     Firebase     |  GitHub |
+| Firebase |      Railway     | Postman |
+
+</div>
+
+---
+
+# `03 // WHAT I BUILD`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ◈ AI PRODUCTS                                             │
+│     Intelligent applications powered by modern LLMs         │
+│                                                             │
+│   ◈ FULL-STACK SYSTEMS                                      │
+│     Frontend + APIs + databases + authentication            │
+│                                                             │
+│   ◈ MOBILE APPLICATIONS                                     │
+│     Cross-platform experiences with Flutter                 │
+│                                                             │
+│   ◈ AUTOMATION                                               │
+│     AI + APIs + workflows connected into useful systems     │
+│                                                             │
+│   ◈ PRODUCT ENGINEERING                                     │
+│     Turning concepts into polished, deployable products     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `04 // FLAGSHIP PROJECT`
+
+<div align="center">
+
+## `◉ ILMAI`
 
 ### `AI-POWERED ACADEMIC ASSISTANT`
 
-**An ambitious attempt to rethink how Pakistani students learn with AI.**
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00BFFF?style=for-the-badge&labelColor=05070D" />
+<img src="https://img.shields.io/badge/PLATFORM-FLUTTER-54C5F8?style=for-the-badge&labelColor=05070D" />
+<img src="https://img.shields.io/badge/AI-GEMINI-8B5CF6?style=for-the-badge&labelColor=05070D" />
 
 </div>
 
-IlmAI combines education-focused experiences with Generative AI to create a learning environment designed around students and their academic workflows.
+> **What if AI wasn't just a chatbot, but an entire academic environment?**
 
-Rather than building *another chatbot*, the goal is to build an **AI-powered academic ecosystem** — connecting learning, revision, assessment, productivity and intelligent assistance into one product.
+That's the idea behind **IlmAI**.
 
-**Built with:**
+An ambitious AI-powered academic platform designed around the needs of Pakistani board students.
+
+```text
+                    ┌───────────────┐
+                    │    STUDENT    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │       ILMAI        │
+                 │   INTELLIGENCE     │
+                 └─────────┬──────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      LEARNING         ASSESSMENT        REVISION
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    SMARTER STUDY
+```
+
+### `STACK`
 
 `Flutter` · `Firebase` · `Node.js` · `TypeScript` · `Gemini` · `REST APIs`
 
-> **This is the kind of software I want to keep building:**
-> products where engineering and AI come together to solve an actual problem.
-
-🌐 **Explore more:** [habban-dev.vercel.app](https://habban-dev.vercel.app/)
+🌐 **[EXPLORE ILMAI / PORTFOLIO](https://habban-dev.vercel.app/)**
 
 ---
 
-# 🛠️ MY STACK
-
-### LANGUAGES
-
-![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge\&logo=dart\&logoColor=0175C2)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge\&logo=php\&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge\&logo=python\&logoColor=3776AB)
-
-### FRONTEND
-
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge\&logo=flutter\&logoColor=54C5F8)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge\&logo=bootstrap\&logoColor=7952B3)
-
-### BACKEND & DATA
-
-![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
-![Node](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
-
-### AI / CLOUD / TOOLS
-
-![Gemini](https://img.shields.io/badge/Gemini-0A0A0A?style=for-the-badge\&logo=google\&logoColor=8E75FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge\&logo=openai\&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
-
----
-
-# 🧠 HOW I THINK ABOUT SOFTWARE
-
-```text
-                    ┌──────────────────┐
-                    │      IDEA        │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │   ARCHITECTURE   │
-                    └────────┬─────────┘
-                             ↓
-              ┌──────────────┴──────────────┐
-              ↓                             ↓
-       ┌─────────────┐               ┌─────────────┐
-       │   PRODUCT   │               │     AI      │
-       │     UX      │               │  INTELLIGENCE│
-       └──────┬──────┘               └──────┬──────┘
-              └──────────────┬──────────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │  ENGINEER + TEST │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │     SHIP IT 🚀   │
-                    └──────────────────┘
-```
-
-I don't want to be limited to one layer of development.
-
-I like understanding **how the whole system works** — interface, backend, database, APIs, AI, deployment and the user experience connecting everything together.
-
----
-
-# 💻 EXPERIENCE
-
-### PHP DEVELOPER — REMOTE INTERNSHIP
-
-**Dec 2025 → Feb 2026**
-
-Worked on production-oriented PHP/Laravel applications, MySQL database structures and REST APIs.
-
-* Developed cross-browser web features using PHP and Laravel
-* Designed MySQL-backed data structures
-* Built and consumed REST APIs
-* Worked with Git & GitHub in a collaborative workflow
-* Debugged and optimized existing codebases
-
----
-
-# 🎓 EDUCATION & CERTIFICATIONS
-
-**ACCP Prime 2.0 — Aptech Computer Education**
-`2023 → 2026`
-
-**Generative AI / Chatbot Development — Saylani Mass IT Training**
-`2025`
-
-**Digital Marketing & WordPress Development**
-`2024`
-
-**Certificate in Information Technology**
-`2022`
-
-**Intermediate — Pre-Engineering**
-Govt. College for Men Nazimabad
-
----
-
-# 📊 GITHUB
+# `05 // ENGINEERING MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hmdLabs786&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+### `LANGUAGES`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdLabs786&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+![Dart](https://img.shields.io/badge/DART-0B1220?style=for-the-badge\&logo=dart\&logoColor=54C5F8)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B1220?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0B1220?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge\&logo=php\&logoColor=777BB4)
+![Python](https://img.shields.io/badge/PYTHON-0B1220?style=for-the-badge\&logo=python\&logoColor=3776AB)
 
-<br/>
+### `FRAMEWORKS`
 
-<img src="https://streak-stats.demolab.com?user=hmdLabs786&theme=github-dark-blue&hide_border=true" />
+![React](https://img.shields.io/badge/REACT-0B1220?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/FLUTTER-0B1220?style=for-the-badge\&logo=flutter\&logoColor=54C5F8)
+![Laravel](https://img.shields.io/badge/LARAVEL-0B1220?style=for-the-badge\&logo=laravel\&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/NODE.JS-0B1220?style=for-the-badge\&logo=nodedotjs\&logoColor=68A063)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0B1220?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+
+### `DATABASE / CLOUD`
+
+![MySQL](https://img.shields.io/badge/MYSQL-0B1220?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MONGODB-0B1220?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/FIREBASE-0B1220?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/VERCEL-0B1220?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
+
+### `AI / DEV TOOLS`
+
+![Gemini](https://img.shields.io/badge/GEMINI-0B1220?style=for-the-badge\&logo=google\&logoColor=8B5CF6)
+![OpenAI](https://img.shields.io/badge/OPENAI-0B1220?style=for-the-badge\&logo=openai\&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/GIT-0B1220?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/POSTMAN-0B1220?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
 
 </div>
 
 ---
 
-# 🌌 CURRENTLY
+# `06 // EXPERIENCE LOG`
 
-```yaml
-location: Karachi, Pakistan
+```text
+[2025.12 ── 2026.02]
 
-building:
-  - AI-powered products
-  - full-stack applications
-  - cross-platform mobile experiences
-  - intelligent automation
+PHP DEVELOPER
+REMOTE INTERNSHIP
 
-learning:
-  - deeper AI integration
-  - scalable system architecture
-  - product engineering
+> Developed web features using PHP + Laravel
+> Designed MySQL-backed database structures
+> Built and consumed REST APIs
+> Collaborated through Git + GitHub
+> Debugged and optimized existing codebases
 
-mindset:
-  - build
-  - experiment
-  - break
-  - fix
-  - ship
-  - repeat
+SYSTEM RESULT :: EXPERIENCE ACQUIRED ✓
 ```
 
 ---
 
-# 🤝 LET'S BUILD SOMETHING
-
-Have an idea for a **web app, mobile app, backend system, AI product or automation workflow?**
-
-I'm always interested in turning interesting ideas into real software.
+# `07 // DEVELOPMENT PHILOSOPHY`
 
 <div align="center">
 
-### `IDEAS ARE CHEAP. LET'S BUILD ONE. ⚡`
+```text
+          ┌──────────┐
+          │   IDEA   │
+          └────┬─────┘
+               │
+               ▼
+        ┌──────────────┐
+        │  ARCHITECT   │
+        └──────┬───────┘
+               │
+       ┌───────┴────────┐
+       ▼                ▼
+   ┌───────┐        ┌───────┐
+   │ BUILD │◄──────►│  AI   │
+   └───┬───┘        └───┬───┘
+       │                │
+       └───────┬────────┘
+               ▼
+        ┌──────────────┐
+        │    TEST      │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │     SHIP     │
+        └──────────────┘
+```
+
+**Don't just write code. Build systems.**
+
+</div>
+
+---
+
+# `08 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hmdLabs786&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdLabs786&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000" height="180"/>
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=hmdLabs786&theme=transparent&hide_border=true&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" />
+
+</div>
+
+---
+
+# `09 // CURRENTLY LOADING...`
+
+```yaml
+SYSTEM:
+  developer: "Habban Madani"
+  mode: "BUILDING"
+
+FOCUS:
+  - AI-powered products
+  - Full-stack engineering
+  - Cross-platform applications
+  - Intelligent automation
+  - Product development
+
+STACK:
+  frontend: ["React", "Flutter", "Tailwind"]
+  backend: ["Laravel", "Node.js", "PHP"]
+  data: ["MySQL", "MongoDB", "Firebase"]
+  intelligence: ["Gemini", "OpenAI", "Claude"]
+
+NEXT_OBJECTIVE:
+  "Build something people remember."
+```
+
+---
+
+# `10 // CONNECT`
+
+<div align="center">
+
+### `TRANSMISSION CHANNELS`
+
 <a href="https://habban-dev.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%5B01%5D_PORTFOLIO-ENTER_SYSTEM-05070D?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+</a>
+
+<a href="https://www.linkedin.com/in/habbanmadani">
+<img src="https://img.shields.io/badge/%5B02%5D_LINKEDIN-CONNECT-05070D?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
 <a href="mailto:habban.madani786@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_EMAIL-Let's_Talk-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%5B03%5D_EMAIL-TRANSMIT-05070D?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
 <br/><br/>
 
-**© Habban Madani · Building from Karachi, Pakistan 🇵🇰**
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│       "TURNING IDEAS INTO DIGITAL SYSTEMS."                │
+│                                                            │
+│                  HABban.DEV // 2026                        │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+### `SYSTEM STATUS: ONLINE ●`
+
+**© Habban Madani · Karachi, Pakistan 🇵🇰**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0B1220,100:05070D&height=120&section=footer" width="100%"/>
